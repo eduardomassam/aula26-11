@@ -1,0 +1,16 @@
+C:\Users\A555004\source\repos\biblioteca\biblioteca\bin\Debug\net5.0\biblioteca.exe
+C:\Users\A555004\source\repos\biblioteca\biblioteca\bin\Debug\net5.0\biblioteca.deps.json
+C:\Users\A555004\source\repos\biblioteca\biblioteca\bin\Debug\net5.0\biblioteca.runtimeconfig.json
+C:\Users\A555004\source\repos\biblioteca\biblioteca\bin\Debug\net5.0\biblioteca.runtimeconfig.dev.json
+C:\Users\A555004\source\repos\biblioteca\biblioteca\bin\Debug\net5.0\biblioteca.dll
+C:\Users\A555004\source\repos\biblioteca\biblioteca\bin\Debug\net5.0\ref\biblioteca.dll
+C:\Users\A555004\source\repos\biblioteca\biblioteca\bin\Debug\net5.0\biblioteca.pdb
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.csproj.AssemblyReference.cache
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.AssemblyInfo.cs
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.dll
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\ref\biblioteca.dll
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.pdb
+C:\Users\A555004\source\repos\biblioteca\biblioteca\obj\Debug\net5.0\biblioteca.genruntimeconfig.cache
